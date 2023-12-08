@@ -1,6 +1,6 @@
 # Example Tutorial sidebar
 
-Echo only for testing purposes 🚀
+For testing purposes 🚀
 
 Execute the following -
 
