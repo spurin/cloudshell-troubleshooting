@@ -1,6 +1,4 @@
-For all options, ***Don't trust the repo***:
-
----
+# For all options don't trust the repo
 
 Option 1
 
